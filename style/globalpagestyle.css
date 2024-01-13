@@ -1,0 +1,91 @@
+body {
+    background-color: #141414;
+    color: lightcyan;
+    font-size: larger;
+}
+
+.isActive {
+    color: rgb(242, 92, 237);
+    text-decoration: underline;
+}
+
+.content {
+    margin-left: 13%;
+    margin-right: 13%;
+}
+
+.content a {
+    color: rgb(194, 242, 155);
+}
+
+.content a:hover {
+    color: rgb(194, 242, 155);
+    text-decoration: underline;
+}
+
+.content h3 {
+    color: palevioletred;
+}
+
+.content h2 {
+    color: palevioletred;
+}
+
+.content h1 {
+    color: palevioletred;
+}
+
+.content .siteTitle {
+    text-decoration: underline;
+    color: rgb(242, 92, 237);
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+a:hover {
+    color: lightcyan;
+    text-decoration: none;
+}
+
+.title {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-weight: bold;
+    font-size: 300%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-family: Arial;
+    color: whitesmoke;
+}
+
+.topbar {
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    background-color: rgb(76, 19, 114);
+    margin-top: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: whitesmoke;
+}
+
+.bottombar {
+    text-align: left;
+    font-weight: normal;
+    color: lightgray;
+    font-size: small;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.bottombarTrenner {
+    border: 3px;
+    border-style: solid;
+    background-color: rgb(76, 19, 114);
+    border-color: rgb(76, 19, 114);
+    margin-bottom: 5px;
+}
