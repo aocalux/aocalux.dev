@@ -3,7 +3,7 @@ User-agent: *
 Disallow: /go/
 Disallow: /mail/
 Disallow: /404.html
-Disallow: /impressum/
+Disallow: /imprint/
 Disallow: /README.md
 Disallow: /admin/
 Disallow: /downloads/
