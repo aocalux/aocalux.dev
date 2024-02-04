@@ -1,4 +1,4 @@
-# This robots.txt file controls crawling of URLs under https://chris-prickartz.de.
+# This robots.txt file controls crawling of URLs under https://www.aocalux.dev.
 User-agent: *
 Disallow: /go/
 Disallow: /mail/
