@@ -8,3 +8,4 @@ Disallow: /README.md
 Disallow: /admin/
 Disallow: /downloads/
 Disallow: /CNAME
+Disallow: /style/
