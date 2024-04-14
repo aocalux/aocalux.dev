@@ -9,3 +9,4 @@ Disallow: /admin/
 Disallow: /downloads/
 Disallow: /CNAME
 Disallow: /style/
+Disallow: /
